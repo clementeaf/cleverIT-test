@@ -15,7 +15,12 @@ Esta documentación describe una aplicación desarrollada en React que utiliza l
 
 ## Instalación
  # Para ejecutar la aplicación en tu entorno local, sigue estos pasos:
- - Clona el repositorio desde GitHub.
+ - Clona el repositorio: https://github.com/clementeaf/cleverIT-test.
+ - Verificar tener instalado node.
  - Ve al directorio raíz del proyecto y ejecuta - npm install - para instalar todas las dependencias.
+ - Una vez lista las instalaciones, ejecutar el comando "npm run start"
 
+# En caso de querer revisar directamente la aplicación en funcionamiento con su api, dirigirse directamente al siguiente enlace:
+ - https://651f03ec6fe2fb145f831a1f--cleverit-test.netlify.app/ -> Aquí encontrará la aplicación React ya desplegada en netlify, funcionando con una api desarrollada a partir de
+   NodeJS y MongoDB que es la que proporciona 10 productos a modo de ejemplo con: Nombre, Precio, Descripción Breve y una imagen.
 
