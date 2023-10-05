@@ -3,7 +3,7 @@ import { useQuery } from 'react-query'
 
 export default function useProductsQuery() {
     async function fetchProducts() {
-        const url = "http://localhost:3001/api/json";
+        const url = "https://clever-it-api.onrender.com/api/json"
         const response = await axios.get(url);
         return response.data;
     }
